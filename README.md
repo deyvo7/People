@@ -1,4 +1,4 @@
-Dawid Waligóra
-Elżbieta Zawadzka
-Julia Milaniak
+Dawid Waligóra,
+Elżbieta Zawadzka,
+Julia Milaniak,
 Szymon Śmiały
